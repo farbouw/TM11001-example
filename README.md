@@ -5,3 +5,5 @@ Wijziging 2.0
 Wiijziging na main.py
 nog iets toevoegen
 Wijziging voor mergenog een keer testen
+
+wijziging sietske
