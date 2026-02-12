@@ -6,5 +6,5 @@ Wiijziging na main.py
 nog iets toevoegen
 Wijziging voor mergenog een keer testen
 
-wijziging sietske
+wijziging sietske 
 Wijziging van Shanna
